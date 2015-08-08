@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>WinRT.ApplicationSettingsUtility</id>
+    <version>1.0.0</version>
+    <title>WinRT Application Settings Utility</title>
+    <authors>tmyt</authors>
+    <owners></owners>
+    <description>
+      Wrapper class library for WinRT Roamin/Local settings.
+    </description>
+    <releaseNotes>
+    </releaseNotes>
+    <summary>
+      Wrapper class library for WinRT Roamin/Local settings.
+    </summary>
+    <language>en-US</language>
+    <projectUrl>https://github.com/tmyt/appsettingsutil</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <copyright>Copyright 2015 yutaka tsumori</copyright>
+    <dependencies />
+    <references></references>
+    <tags></tags>
+  </metadata>
+  <files>
+    <file src="lib\" target="lib" />
+  </files>
+</package>

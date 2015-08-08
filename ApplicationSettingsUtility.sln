@@ -5,6 +5,11 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationSettingsUtility", "ApplicationSettingsUtility\ApplicationSettingsUtility.csproj", "{A430B936-32F9-4746-8568-97F88AB4EB4F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "nuget", "nuget", "{062C62D2-BF0D-415A-B68E-7AA5F6362F69}"
+	ProjectSection(SolutionItems) = preProject
+		nuget\Package.nuspec = nuget\Package.nuspec
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
