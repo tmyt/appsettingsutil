@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "nuget", "nuget", "{062C62D2-BF0D-415A-B68E-7AA5F6362F69}"
 	ProjectSection(SolutionItems) = preProject
 		nuget\Package.nuspec = nuget\Package.nuspec
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
